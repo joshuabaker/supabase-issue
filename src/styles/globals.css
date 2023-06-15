@@ -1,0 +1,9 @@
+body {
+  margin: 2em;
+}
+
+p, input, button {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
